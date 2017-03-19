@@ -1,10 +1,18 @@
 # phishing
 
 
-What phishing website does
+What phishing website does?
 
 Phishing is get sensitive data like passwords, credit card details using fake websites and emails. This is the good example to social 
-social engineering. 
+engineering because this fake website same as the original web site. So user easily caught this unauthorized websites. 
+
 for futher informations visit  https://unalupotha.blogspot.com/
+
+How this web page work?
+
+Once you visit this website you enter your user names passwords. All that cridentials can collect using txt file. This webpage create  
+using html and php. 
+
+
 
 
