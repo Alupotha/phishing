@@ -10,8 +10,9 @@ for futher informations visit  https://unalupotha.blogspot.com/
 
 How this web page work?
 
-Once you visit this website you enter your user names passwords. All that cridentials can collect using txt file. This webpage create  
-using html and php.Using php collect user cridentials and redirect them to that txt file.
+Once you visit this website you enter your user names passwords. All that cridentials can collect using txt file. This webpage create html 
+and php.Using php collect user cridentials and redirect them to that txt file.
 
-How to work with this files?
+How work this files?
+
 
