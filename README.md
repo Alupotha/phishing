@@ -6,7 +6,7 @@ What phishing website does?
 Phishing is get sensitive data like passwords, credit card details using fake websites and emails. This is the good example to social 
 engineering because this fake website same as the original web site. So user easily caught this unauthorized websites. 
 
-
+For further details go to https://udeshina.blogspot.com/ 
 
 How to host the phishing page on our computer using XAMPP/WAMP ?
 
@@ -52,7 +52,7 @@ How to host the phishing page on our computer using XAMPP/WAMP ?
 ![capture17](https://cloud.githubusercontent.com/assets/18233358/24329768/b7b34f0e-122d-11e7-994d-19cb39c11ef5.PNG)
 
 
-
+Please enter your suggetions about this.
 
 
 
