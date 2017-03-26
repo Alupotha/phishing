@@ -41,8 +41,7 @@ How to host the phishing page on our computer using XAMPP/WAMP ?
 
 5) Host that created files to XAMMP/WAMP.
 
-
-
+![capture15](https://cloud.githubusercontent.com/assets/18233358/24329725/8ecfe7a6-122c-11e7-9c95-fa13dad02083.PNG)
 
 6) Then run that phishing website on browser and enter credentials.
 
