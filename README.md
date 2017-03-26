@@ -49,6 +49,10 @@ How to host the phishing page on our computer using XAMPP/WAMP ?
 
 7) That credentials store credentials.txt file. You can view that file and get that credentials easily.
 
+![capture16](https://cloud.githubusercontent.com/assets/18233358/24329747/08a7698c-122d-11e7-8503-b47bc8bbc64e.PNG)
+
+
+
 
 
 
