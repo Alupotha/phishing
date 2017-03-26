@@ -41,7 +41,7 @@ How to host the phishing page on our computer using XAMPP/WAMP ?
 
 6) Then run that phishing website on browser and enter credentials.
 
-7) That credentials store credentials.txt file.
+7) That credentials store credentials.txt file. You can view that file and get that credentials easily.
 
 
 
