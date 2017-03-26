@@ -41,10 +41,12 @@ How to host the phishing page on our computer using XAMPP/WAMP ?
 
 5) Host that created files to XAMMP/WAMP.
 
-![capture14](https://cloud.githubusercontent.com/assets/18233358/24329565/f023d058-1227-11e7-9e8e-e1297b9771ea.PNG)
+
 
 
 6) Then run that phishing website on browser and enter credentials.
+
+![capture14](https://cloud.githubusercontent.com/assets/18233358/24329565/f023d058-1227-11e7-9e8e-e1297b9771ea.PNG)
 
 7) That credentials store credentials.txt file. You can view that file and get that credentials easily.
 
