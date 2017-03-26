@@ -12,6 +12,7 @@ How to host the phishing page on our computer using XAMPP/WAMP ?
 
 1) Open the website in the browser for which you want to create a phishing page. Right click and save as index.html.
 
+![capture1](https://cloud.githubusercontent.com/assets/18233358/24329625/faa91b94-1229-11e7-8c3b-fd3ae79db078.PNG)
 
 2) Then open that html in a note pad. Now search string "action" and change address to validate.php
 
